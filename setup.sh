@@ -1,3 +1,4 @@
+pipenv install -r requirements.txt
 mkdir -p ~/.streamlit/
 
 echo "\
